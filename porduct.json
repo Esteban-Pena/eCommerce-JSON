@@ -1,0 +1,85 @@
+[
+    {
+        "name":"Air Jordan 1",
+        "image": "images/Jordan1.jpeg",
+        "description":"The Air Jordan 1 Retro High OG 'Chicago' 2015 colorway was designed to avoid Jordan's $5,000-per game fines from the NBA after the original black and red colorway was banned. The 'Chicago' was first retroed in 1994 and stayed true to the 1985 design. Further retros were released in 2013 with small changes to the design, and again in 2015 with the original branding details: the Nike Air logo on the tongue and the original clean heel without the Jumpman logo.",
+        "Price": "$180"
+    },
+
+    {
+        "name":"Yeezy 350",
+        "image": "images/Yeezy350.jpeg",
+        "description":"The YEEZY BOOST 350 V2 features an upper composed of re-engineered Primeknit. The post-dyed monofilament side stripe is woven into the upper. Reflective threads are woven into the laces. The midsole utilizes adidas' innovative BOOST™ technology.",
+        "Price": "$220"
+    },
+
+    {
+        "name":"Air Jordan 4",
+        "image": "images/Jordan4.jpeg",
+        "description":"AIR JORDAN IV The Air Jordan IV debuted in 1989 and was designed by Tinker Hatfield. It features lightweight netting and plastic wings on the upper as well as visible Max Air. The original colorways of the Air Jordan IV are 'White/Cement,' 'Bred,' 'Military,' and 'Fire Red.",
+        "Price": "$220"
+    },
+
+    {
+        "name":"CDG Converse",
+        "image": "images/Converse.jpeg",
+        "description":"The long-running partnership between CDG Play and Converse marks one of the sneaker industry’s strongest partnerships, spawning countless variations of the Chuck Taylor. Today, perhaps at the peak of its ubiquity, is the high- and low-cut variants of both black and white Chuck 70s with the red heart on the side.",
+        "Price": "$150"
+    },
+
+    {
+        "name":"Superme Shirt",
+        "image": "images/Supreme.png",
+        "description":"Supreme is an American clothing and skateboarding lifestyle brand established in New York City in April 1994. The brand is targeted at the skateboarding and hip hop cultures, and youth culture in general. The brand produces clothes and accessories and also manufactures skateboards.",
+        "Price": "$45"
+    },
+
+    {
+        "name":"Vlone Shirt",
+        "image": "images/VloneShirt.jpeg",
+        "description":"Vlone is defined as you live alone, but you die alone. This lifestyle can be summarized in a single sentence. Vlone is the idea of its creators, their lifestyle, thinking and culture. The inspiration for this brand is Harlem's freestyle fashion, where Rocky and Bari come from.",
+        "Price": "$75"
+    },
+
+    {
+        "name":"Staple Pigeon Hoodie",
+        "image": "images/StapleHoodie.jpg",
+        "description":"What is the staple pigeon? Staple Pigeon is a full lifestyle menswear collection and is distributed globally. Staple Design Studio is a creative consulting firm that has worked with many brands including Nike, Microsoft, Sony, Lotus, Timberland, New Balance, LVMH, and others.",
+        "Price": "$68"
+    },
+
+    {
+        "name":"Staple Pigeon Pants",
+        "image": "images/StaplePants.jpg",
+        "description":"What is the staple pigeon? Staple Pigeon is a full lifestyle menswear collection and is distributed globally. Staple Design Studio is a creative consulting firm that has worked with many brands including Nike, Microsoft, Sony, Lotus, Timberland, New Balance, LVMH, and others.",
+        "Price": "$64"
+    },
+
+    {
+        "name":"Louis Vuitton Belt",
+        "image": "images/LVBelt.jpg",
+        "description":"Louis Vuitton is the world's most valuable luxury brand and is a division of LVMH. Its products include leather goods, handbags, trunks, shoes, watches, jewelry and accessories. Most of these are adorned with the LV monogram. It is one of the most profitable brands in the world with profit margins north of 30%.",
+        "Price": "$500"
+    },
+
+    {
+        "name":"Gucci Wallet",
+        "image": "images/Gucci.jpg",
+        "description":"Gucci is an Italian fashion label founded in 1921 by Guccio Gucci, making it one of the oldest Italian fashion brands in operation today. Like many historic fashion houses, the brand started out as a luggage manufacturer, producing luxury travel goods for Italy's wealthy upper-classes, as well as equestrian equipment.",
+        "Price": "$400"
+    },
+
+    {
+        "name":"Chrome Hearts Ring",
+        "image": "images/ChromeRing.jpg",
+        "description":"Chrome Hearts is a high end brand that produces silver accessories, gold and diamond jewelry, eyewear, leather, clothing and furniture. Founded in 1988 in Los Angeles by Richard Stark, Leonard Kamhout and John Bowman.",
+        "Price": "$350"
+    },
+
+    {
+        "name":"Supreme Fanny Pack",
+        "image": "images/SupremeFanny.jpg",
+        "description":"Supreme is an American clothing and skateboarding lifestyle brand established in New York City in April 1994. The brand is targeted at the skateboarding and hip hop cultures, and youth culture in general. The brand produces clothes and accessories and also manufactures skateboards.",
+        "Price": "$125"
+    }
+]   
